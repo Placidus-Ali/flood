@@ -1,3 +1,6 @@
+![alt text](floods.jpg)
+
+
 PROJECT TITLE
 Flood Probability Prediction Project
 
@@ -22,3 +25,4 @@ Final Result: The XGBoost model achieved R² ≈ 0.977 and MAE ≈ 0.012, meanin
 
 
 Use the link below to make your prediction
+https://placidus-flood-prediction-model.streamlit.app
