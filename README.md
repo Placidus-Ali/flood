@@ -1,17 +1,18 @@
 
 ![floods](https://github.com/user-attachments/assets/a6094cde-2a69-42f7-bbd9-8a3a3ae6c66a)
 
-PROJECT TITLE
-Flood Probability Prediction Project
+## Flood Probability Prediction Project
 
 
-PROBLLEM STATEMENT
+## PROBLLEM STATEMENT
+
 Floods are among the most frequent and costly natural disasters globally, causing loss of life, massive economic damage, and long-term displacement. In many regions especially developing countries, early warning systems are either absent or unreliable due to lack of real-time predictive capability. The inability to accurately forecast flood risk in advance severely limits governments, NGOs, and communities from taking timely preventive actions.
 
 This project aims to address this critical issue.
 
 
-SOLUTION
+## SOLUTION
+
 This project develops a high-accuracy regression model to predict Flood Probability (0 to 1) using 20 key risk factors. Two powerful tree-based models were built and compared:
 
 Random Forest Regressor
