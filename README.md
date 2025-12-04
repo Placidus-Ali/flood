@@ -1,4 +1,6 @@
 
+![floods](https://github.com/user-attachments/assets/7480e148-10af-4740-8e7d-5ea4387528ed)
+
 ## Flood Probability Prediction Project
 
 
